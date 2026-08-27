@@ -1,6 +1,6 @@
 <a href="#"><img src="https://kiusky.github.io/portfolio/img/logo.webp" width="100"></a><a href="#"><img src="https://kiusky.github.io/portfolio/img/cardname.png" width="300"></a>ㅤㅤㅤㅤㅤㅤ[![Site Portfólio](https://img.shields.io/badge/Portfólio-2E7D32?style=for-the-badge&logo=googleearth&logoColor=white)](https://kiusky.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E7D32?style=for-the-badge&logo=googleearth&logoColor=white)](https://www.linkedin.com/in/giuliano-jr/)
-[![GitHub](https://img.shields.io/badge/GitHub-2E7D32?style=for-the-badge&logo=googleearth&logoColor=white)](https://github.com/Kiusky/)
+[![Discord](https://img.shields.io/badge/Discord-2E7D32?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/351072738053586955)
 
 ---
 
